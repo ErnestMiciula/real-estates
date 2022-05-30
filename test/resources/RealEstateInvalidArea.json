@@ -1,0 +1,13 @@
+{
+  "totalPages":87,
+  "data":[
+    {
+      "id":"d8834ae1-8129-4a7d-8ecc-e8b4b53531e9",
+      "type":"detached_house",
+      "price":"760332.99",
+      "description":"A really nice house you should buy it",
+      "area":"invalid area",
+      "rooms":4
+    }
+  ]
+}
